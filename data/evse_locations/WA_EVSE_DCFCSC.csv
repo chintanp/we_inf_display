@@ -1,0 +1,106 @@
+"ID","City","ZIP","EV.DC.Fast.Count","EV.Network","Latitude","Longitude","EV.Connector.Types","Facility.Type","CNG.Dispenser.Num","CNG.On.Site.Renewable.Source","CNG.Total.Compression.Capacity","CNG.Storage.Capacity","LNG.On.Site.Renewable.Source","E85.Other.Ethanol.Blends","EV.Pricing","EV.Pricing..French.","LPG.Nozzle.Types","Hydrogen.Pressures","Hydrogen.Standards","CNG.Fill.Type.Code","CNG.PSI","CNG.Vehicle.Class","LNG.Vehicle.Class","MaxPower","EV_Connector_Code","ChargingCost","restaurants"
+39778,"Bellingham",98229,1,"",48.755607,-122.454132,"CHADEMO J1772","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,1
+39780,"Burien",98148,1,"",47.458466,-122.333257,"CHADEMO J1772","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,11
+39788,"Port Angeles",98362,1,"",48.102863,-123.342273,"CHADEMO J1772","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,0
+39789,"Puyallup",98371,1,"",47.207367,-122.294997,"CHADEMO J1772","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,0
+39791,"Renton",98058,1,"",47.448281,-122.219286,"CHADEMO J1772","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,3
+39796,"Spokane Valley",99212,1,"",47.657264,-117.312518,"CHADEMO J1772","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,4
+60412,"Bellevue",98004,1,"ChargePoint Network",47.597293,-122.188069,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Pricing is based on length of time. $0 per hour, and $5 per additional hour",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,1
+61030,"Vancouver",98662,1,"ChargePoint Network",45.648181,-122.59837,"CHADEMO","",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,8
+63307,"Seattle",98122,1,"ChargePoint Network",47.614911,-122.3144085,"CHADEMO","",NA,NA,NA,NA,NA,NA,"Pricing is based on length of time. $1 per hour for the first 1 hour, and $5 per additional hour",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,70
+63444,"East Wenatchee",98802,1,"",47.400783,-120.279071,"CHADEMO J1772","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,0
+65551,"Edmonds",98020,1,"ChargePoint Network",47.7781913,-122.3448327,"CHADEMO","",NA,NA,NA,NA,NA,NA,"$6 per session",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,12
+65859,"Wenatchee",98801,1,"AeroVironment Network",47.42758,-120.31231,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"DC Fast: $7.50 per session or $19.99 for monthly plan, Level 2: $4 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,19
+65861,"Centralia",98531,1,"AeroVironment Network",46.725274,-122.974224,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,12
+65862,"Bellingham",98325,1,"AeroVironment Network",48.731457,-122.470706,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,15
+65864,"Castle Rock",98611,1,"AeroVironment Network",46.276122,-122.910167,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,3
+65865,"Burlington",98233,1,"AeroVironment Network",48.457448,-122.335866,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,12
+65866,"Ridgefield",98642,1,"AeroVironment Network",45.817526,-122.683594,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,5
+65869,"Skykomish",98288,1,"AeroVironment Network",47.711268,-121.360495,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,1
+69700,"Bellevue",98005,1,"ChargePoint Network",47.6274037,-122.1578742,"J1772COMBO","",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,2,2,11
+73412,"Tumwater",98501,1,"AeroVironment Network",46.99353,-122.908081,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,2
+73413,"Leavenworth",98826,1,"AeroVironment Network",47.59501,-120.664684,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"DC Fast: $7.50 per session or $19.99 for monthly plan, Level 2: $4 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,38
+73415,"Sultan",98294,1,"AeroVironment Network",47.862157,-121.816597,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $4 per session or $19.99 for monthly plan, DC Fast: $7.50 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,2
+73431,"Cle Elum",98922,1,"AeroVironment Network",47.208469,-121.019582,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"DC Fast: $7.50 per session or $19.99 for monthly plan, Level 2: $4 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,1
+73433,"Snoqualmie Pass",98068,1,"AeroVironment Network",47.39194,-121.40061,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"DC Fast: $7.50 per session or $19.99 for monthly plan, Level 2: $4 per session or $19.99 for monthly plan",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,0
+74196,"Everett",98204,1,"",47.9060808,-122.2365818,"CHADEMO J1772COMBO","CAR_DEALER",NA,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,4
+75094,"Everett",98204,2,"ChargePoint Network",47.902753,-122.24699,"CHADEMO","",NA,NA,NA,NA,NA,NA,"$6 per session",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,1
+76253,"Kirkland",98033,1,"",47.6786184,-122.1813764,"CHADEMO J1772COMBO","CAR_DEALER",NA,NA,NA,NA,NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,8
+76926,"Fife",98424,1,"ChargePoint Network",47.239188,-122.374558,"J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"Pricing is based on length of time. $0 per hour, and $2 per additional hour",NA,NA,NA,NA,NA,NA,NA,NA,50,2,2,0
+78795,"Seattle",98134,2,"ChargePoint Network",47.59366,-122.32451,"J1772COMBO","",NA,NA,NA,NA,NA,NA,"Pricing is based on length of time. $2 per hour, and $10 per additional hour, minimum payment of $1",NA,NA,NA,NA,NA,NA,NA,NA,50,2,2,4
+82083,"Edmonds",98026,2,"ChargePoint Network",47.778399,-122.3442599,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$6 per session",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,12
+88018,"SeaTac",98188,4,"ChargePoint Network",47.436037,-122.296325,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,11
+92472,"Seattle",98122,2,"ChargePoint Network",47.6155533,-122.3228502,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,96
+92487,"Edmonds",98026,2,"ChargePoint Network",47.7811507,-122.3457541,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$6 per session",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,11
+93034,"Bellevue",98007,6,"eVgo Network",47.58083,-122.14364,"CHADEMO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,8
+93038,"Bellevue",98007,2,"eVgo Network",47.580831,-122.143644,"CHADEMO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,8
+93051,"Kirkland",98034,2,"eVgo Network",47.707269,-122.17484,"CHADEMO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,17
+93088,"Redmond",98052,4,"eVgo Network",47.671445,-122.119418,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,38
+93146,"Seattle",98109,4,"eVgo Network",47.620663,-122.329521,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,31
+93172,"Ritzville",99169,2,"eVgo Network",47.11857,-118.36556,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,7
+93339,"Tacoma",98409,6,"eVgo Network",47.21543,-122.47068,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,25
+93343,"Quil Ceda Village",98271,2,"eVgo Network",48.093002,-122.189789,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,7
+93352,"North Bend",98045,4,"eVgo Network",47.491363,-121.793109,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,7
+93364,"Seattle",98125,2,"eVgo Network",47.7033,-122.32519,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,17
+93443,"Seattle",98122,2,"eVgo Network",47.613457,-122.321919,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,98
+93483,"Renton",98057,4,"eVgo Network",47.49818,-122.204308,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,17
+93531,"Woodland",98674,2,"eVgo Network",45.928452,-122.762054,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,1
+93550,"Mercer Island",98040,4,"eVgo Network",47.584831,-122.235771,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,25
+93552,"Lynnwood",98036,2,"eVgo Network",47.820568,-122.273567,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $5.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,4
+94394,"Seattle",98108,2,"ChargePoint Network",47.541946,-122.324328,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,3
+95368,"Silverdale",98383,2,"Blink Network",47.652505,-122.694367,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,21
+95621,"AUBURN",98002,2,"Blink Network",47.293216,-122.212814,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,4
+95623,"AUBURN",98002,2,"Blink Network",47.3207,-122.219776,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,13
+96282,"Bremerton",98312,2,"Blink Network",47.56825,-122.66705,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,7
+96405,"Vancouver",98685,2,"Blink Network",45.720603,-122.663135,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,12
+96406,"Vancouver",98661,2,"Blink Network",45.619627,-122.64478,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,8
+96407,"Kirkland",98034,2,"Blink Network",47.708482,-122.183522,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,4
+96412,"Seattle",98125,2,"Blink Network",47.723689,-122.292383,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,6
+96505,"Auburn",98092,2,"Blink Network",47.245269,-122.206909,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,5
+96628,"Fife",98424,2,"Blink Network",47.24198,-122.348098,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,1
+96763,"Seattle",98106,2,"ChargePoint Network",47.547708,-122.3527083,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,0
+98770,"Seattle",98103,2,"ChargePoint Network",47.6987144,-122.3347009,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,0
+99059,"Renton",98057,2,"Greenlots",47.4707717895508,-122.220207214355,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $3.50 per hour, minimum payment of $3.50, maximum payment of $30.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,8
+99067,"Puyallup",98372,2,"Greenlots",47.2066383361816,-122.29222869873,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $10.00 per hour, minimum payment of $3.00, maximum payment of $30.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,0
+99070,"Tacoma",98409,2,"Greenlots",47.1906089782715,-122.484420776367,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $7.00 per hour, maximum payment of $30.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,0
+99073,"seattle",98133,2,"Greenlots",47.7538108825684,-122.346504211426,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $5.00 per hour, maximum payment of $20.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,2
+99183,"Rosalia",99170,2,"Greenlots",47.2346725463867,-117.370063781738,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"Level 2: $0.00 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,1
+99263,"Spokane",99201,2,"Greenlots",47.662197,-117.431889,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $0.35 per kWh, minimum payment of $0.50, maximum payment of $25.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,4
+99277,"Pullman",99163,2,"Greenlots",46.728904,-117.176165,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $0.35 per kWh, minimum payment of $0.50, maximum payment of $25.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,13
+99280,"Liberty Lake",99019,2,"Greenlots",47.6705284118652,-117.10326385498,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $0.35 per kWh, minimum payment of $0.50, maximum payment of $25.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,15
+99282,"Seattle",98144,4,"Greenlots",47.579971,-122.312333,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $0.43 per kWh, maximum payment of $30.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,10
+99296,"Kennewick",99337,2,"Greenlots",46.181372,-119.184406,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $21.00 per hour",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,1
+99297,"Ellensburg",98926,2,"Greenlots",46.994109,-120.548798,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"Level 2: $1.50 per hour",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,19
+99358,"Kennewick",99336,1,"",46.179735,-119.188128,"CHADEMO J1772 J1772COMBO","STREET_PARKING",NA,NA,NA,NA,NA,NA,"Level 2: $1.25 per hour
+DC fast: $0.25 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,3
+99591,"Seattle",98134,8,"ChargePoint Network",47.5974028,-122.3304456,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,59
+99920,"Bellevue",98007,2,"Blink Network",47.584996,-122.150454,"CHADEMO","",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,1
+100242,"Tacoma",98421,4,"eVgo Network",47.236323,-122.430462,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $4.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,5
+102483,"Aberdeen",98520,8,"Tesla",46.976679,-123.813485,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,9
+102484,"Arlington",98223,16,"Tesla",48.214506,-122.185718,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,1
+102485,"North Burlington",98233,8,"Tesla",48.509494,-122.337486,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,4
+102486,"Centralia",98531,20,"Tesla",46.72984,-122.977335,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,11
+102487,"Ellensburg",98926,5,"Tesla",46.976918,-120.54162,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,8
+102488,"Kennewick",99336,8,"Tesla",46.197294,-119.16214,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,3
+102489,"Lynnwood",98087,10,"Tesla",47.849629,-122.272806,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,6
+102491,"Ritzville",99169,4,"Tesla",47.116664,-118.367792,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,8
+102492,"Sequim",98382,8,"Tesla",48.070802,-123.073979,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,1
+102493,"Vancouver",98685,12,"Tesla",45.721509,-122.664886,"TESLA","",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,11
+102594,"Leavenworth",98826,16,"Tesla",47.598778,-120.655164,"TESLA","GROCERY",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,1
+103573,"Seattle",98115,4,"ChargePoint Network",47.700101,-122.32406,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,11
+103577,"Spoakane",99201,2,"Greenlots",47.5899696350098,-117.565841674805,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $0.35 per kWh, minimum payment of $0.50, maximum payment of $25.00",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,2
+103581,"Yakima",98901,2,"Greenlots",46.677105,-120.478546,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $21.00 per hour",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,1
+103586,"pasco",99301,2,"Greenlots",46.241729,-119.124176,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $21.00 per hour",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,11
+103612,"Spokane",99218,2,"Greenlots",47.768802,-117.401944,"CHADEMO J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"Level 2: Free",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,16
+104165,"Federal Way",98023,2,"Blink Network",47.2968474,-122.3814568,"CHADEMO J1772","",NA,NA,NA,NA,NA,NA,"Level 2: $0.49 per kWh, DC Fast: $0.59 per kWh",NA,NA,NA,NA,NA,NA,NA,NA,50,1,2,7
+104285,"Seattle",98125,2,"ChargePoint Network",47.7132239,-122.2984152,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,3
+104286,"Seattle",98109,2,"ChargePoint Network",47.619436,-122.351371,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"$0.2 per hour, minimum payment of $4.95, maximum payment of $20, $4.95 per session, maximum session time is 2 hours",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,42
+104446,"Issaquah",98029,8,"Tesla",47.548071,-122.039957,"TESLA","GROCERY",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,13
+105359,"Longview",98632,1,"",46.132245,-122.935179,"J1772COMBO","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,2,2,14
+105361,"Yakima",98901,1,"",46.604239,-120.481583,"J1772 J1772COMBO","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,2,2,3
+105362,"Wenatchee",98801,1,"",47.467463,-120.336918,"J1772 J1772COMBO","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,2,2,6
+105363,"Port Angeles",98362,1,"",48.119672,-123.431005,"CHADEMO J1772COMBO","CAR_DEALER",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,19
+116820,"Cle Elum",98922,12,"Tesla",47.189311,-120.9026,"TESLA","OFFICE_BLDG",NA,NA,NA,NA,NA,NA,"$0.28 per kWh; $0.26 per minute above 60 kW and $0.13 per minute at or below 60 kW",NA,NA,NA,NA,NA,NA,NA,NA,50,4,0,0
+118061,"Cle Elum",98922,2,"Greenlots",47.1889038085938,-120.903099060059,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC Fast: $21.00 per hour",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,0
+119039,"Bellevue",98005,1,"ChargePoint Network",47.626541,-122.155852,"J1772 J1772COMBO","",NA,NA,NA,NA,NA,NA,"Free",NA,NA,NA,NA,NA,NA,NA,NA,50,2,2,24
+121280,"Bellingham",98229,4,"eVgo Network",48.74393,-122.461854,"CHADEMO J1772COMBO","",NA,NA,NA,NA,NA,NA,"DC fast: $4.95 per 30 minute session + $0.20 per minute",NA,NA,NA,NA,NA,NA,NA,NA,50,3,3,15
